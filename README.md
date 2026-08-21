@@ -68,3 +68,6 @@ IQR = Q3 - Q1
 
 Lower Bound = Q1 - 1.5 × IQR
 Upper Bound = Q3 + 1.5 × IQR
+Round 3:Visualising 
+<img width="1017" height="596" alt="image" src="https://github.com/user-attachments/assets/96507995-d550-495e-873c-68f9101abc9f" />
+
