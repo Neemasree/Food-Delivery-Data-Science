@@ -1,0 +1,117 @@
+trip_id,pickup_timestamp,area,distance_km,traffic_condition,delivery_time_min,promised_time_min,distance_band,delay_indicator,delay_status
+FD0001,2026-01-16 21:27,West,6.484999999999999,High,28.8,35,5-10 km,0,On Time
+FD0002,2026-03-22 22:12,East,5.53,High,44.2,35,5-10 km,1,Late
+FD0003,2026-03-07 10:08,Central,5.86,High,51.0,35,5-10 km,1,Late
+FD0004,2026-03-25 03:54,Central,4.16,Moderate,26.3,35,0-5 km,0,On Time
+FD0005,2026-07-07 20:24,Central,8.76,Moderate,52.2,35,5-10 km,1,Late
+FD0006,2026-05-26 19:59,Central,8.47,Low,38.5,35,5-10 km,1,Late
+FD0007,2026-06-05 21:19,South,12.53,Low,43.4,35,10-15 km,1,Late
+FD0008,2026-05-17 12:35,West,10.03,Low,40.8,35,10-15 km,1,Late
+FD0009,2026-04-30 18:47,South,9.22,Moderate,43.4,35,5-10 km,1,Late
+FD0010,2026-01-19 19:40,West,2.17,Low,12.8,35,0-5 km,0,On Time
+FD0011,2026-02-09 06:48,North,14.29,Moderate,60.1,35,10-15 km,1,Late
+FD0012,2026-01-25 08:22,South,7.56,Low,24.3,35,5-10 km,0,On Time
+FD0013,2026-05-23 16:05,East,1.21,Moderate,18.1,35,0-5 km,0,On Time
+FD0014,2026-05-08 23:14,North,1.78,Low,12.2,35,0-5 km,0,On Time
+FD0015,2026-06-30 17:20,West,16.81,Moderate,60.5,35,15-20 km,1,Late
+FD0017,2026-01-28 06:00,West,2.3,Moderate,12.8,35,0-5 km,0,On Time
+FD0018,2026-07-18 19:41,East,4.04,Low,17.7,35,0-5 km,0,On Time
+FD0019,2026-07-25 01:16,East,6.37,High,54.6,35,5-10 km,1,Late
+FD0020,2026-03-03 01:10,South,3.59,Moderate,32.6,35,0-5 km,0,On Time
+FD0021,2026-05-02 01:16,Central,13.78,Low,51.4,35,10-15 km,1,Late
+FD0022,2026-05-28 16:41,North,5.14,Moderate,30.3,35,5-10 km,0,On Time
+FD0023,2026-03-04 22:06,Central,5.73,High,40.2,35,5-10 km,1,Late
+FD0024,2026-06-21 23:19,North,13.02,Low,42.4,35,10-15 km,1,Late
+FD0025,2026-01-06 13:27,North,16.34,High,68.5,35,15-20 km,1,Late
+FD0026,2026-04-10 07:21,South,8.63,Low,41.0,35,5-10 km,1,Late
+FD0027,2026-05-08 11:12,South,11.53,Moderate,42.8,35,10-15 km,1,Late
+FD0028,2026-04-29 20:07,East,3.91,High,39.8,35,0-5 km,1,Late
+FD0029,2026-07-18 11:40,South,1.57,Low,10.0,35,0-5 km,0,On Time
+FD0030,2026-07-24 10:36,South,6.31,Low,29.9,35,5-10 km,0,On Time
+FD0031,2026-07-02 20:37,Central,13.16,High,70.1,35,10-15 km,1,Late
+FD0032,2026-02-14 18:06,Central,17.68,Low,56.2,35,15-20 km,1,Late
+FD0033,2026-06-10 14:15,East,2.65,Moderate,24.7,35,0-5 km,0,On Time
+FD0034,2026-02-02 02:40,Central,12.45,Moderate,51.4,35,10-15 km,1,Late
+FD0035,2026-05-18 16:10,South,6.47,High,41.0,35,5-10 km,1,Late
+FD0036,2026-04-04 04:41,South,8.21,Moderate,44.8,35,5-10 km,1,Late
+FD0037,2026-04-14 02:18,East,4.32,Low,22.3,35,0-5 km,0,On Time
+FD0038,2026-05-04 20:59,North,8.26,Low,32.3,35,5-10 km,0,On Time
+FD0039,2026-06-26 15:47,East,1.6,High,35.4,35,0-5 km,1,Late
+FD0040,2026-02-06 07:37,North,7.82,Moderate,47.7,35,5-10 km,1,Late
+FD0041,2026-03-05 03:05,North,9.9,Moderate,42.4,35,5-10 km,1,Late
+FD0042,2026-01-11 03:08,North,5.0,Moderate,30.8,35,0-5 km,0,On Time
+FD0043,2026-07-01 08:47,North,7.51,High,51.0,35,5-10 km,1,Late
+FD0044,2026-04-23 01:01,South,1.91,Moderate,27.5,35,0-5 km,0,On Time
+FD0045,2026-07-23 16:06,North,14.27,Moderate,57.8,35,10-15 km,1,Late
+FD0046,2026-04-03 23:14,North,2.2,High,28.8,35,0-5 km,0,On Time
+FD0047,2026-01-01 17:07,West,3.0,Moderate,22.7,35,0-5 km,0,On Time
+FD0048,2026-02-01 07:10,South,4.23,Low,20.5,35,0-5 km,0,On Time
+FD0049,2026-03-27 20:23,North,3.51,Moderate,32.4,35,0-5 km,0,On Time
+FD0050,2026-02-05 23:04,Central,1.53,Low,21.9,35,0-5 km,0,On Time
+FD0051,2026-05-10 08:06,South,0.59,Moderate,23.8,35,0-5 km,0,On Time
+FD0052,2026-03-15 21:34,East,16.51,Moderate,70.5,35,15-20 km,1,Late
+FD0053,2026-07-28 01:39,Central,5.71,Moderate,31.2,35,5-10 km,0,On Time
+FD0054,2026-03-21 02:38,Central,5.09,Moderate,33.4,35,5-10 km,0,On Time
+FD0055,2026-01-05 15:26,South,3.69,Moderate,24.4,35,0-5 km,0,On Time
+FD0056,2026-01-31 04:03,West,4.14,Moderate,32.5,35,0-5 km,0,On Time
+FD0057,2026-07-18 05:55,East,5.01,Low,24.3,35,5-10 km,0,On Time
+FD0058,2026-01-14 03:50,North,12.36,Low,53.2,35,10-15 km,1,Late
+FD0059,2026-06-12 22:08,Central,1.45,Low,11.6,35,0-5 km,0,On Time
+FD0060,2026-05-08 01:43,North,12.94,High,59.1,35,10-15 km,1,Late
+FD0061,2026-04-21 21:39,South,14.33,Low,50.3,35,10-15 km,1,Late
+FD0062,2026-01-11 15:47,West,1.07,High,38.0,35,0-5 km,1,Late
+FD0063,2026-05-12 12:29,Central,6.76,High,41.2,35,5-10 km,1,Late
+FD0064,2026-01-13 14:37,North,5.27,Low,13.3,35,5-10 km,0,On Time
+FD0065,2026-04-11 23:41,East,4.17,Low,24.3,35,0-5 km,0,On Time
+FD0066,2026-03-04 05:16,West,8.83,Moderate,40.1,35,5-10 km,1,Late
+FD0068,2026-01-23 05:47,Central,5.9,Low,21.7,35,5-10 km,0,On Time
+FD0069,2026-06-11 17:32,Central,2.05,Moderate,28.4,35,0-5 km,0,On Time
+FD0070,2026-07-06 23:55,Central,3.38,Moderate,34.9,35,0-5 km,0,On Time
+FD0071,2026-03-19 10:32,East,13.41,Moderate,52.1,35,10-15 km,1,Late
+FD0072,2026-05-27 12:39,South,10.84,High,53.5,35,10-15 km,1,Late
+FD0073,2026-03-28 06:36,South,3.48,Low,19.7,35,0-5 km,0,On Time
+FD0074,2026-01-12 08:24,North,8.34,Moderate,33.3,35,5-10 km,0,On Time
+FD0075,2026-06-23 22:47,East,11.88,High,54.8,35,10-15 km,1,Late
+FD0076,2026-03-13 00:12,North,1.99,High,32.6,35,0-5 km,0,On Time
+FD0077,2026-07-20 11:54,South,8.73,High,52.9,35,5-10 km,1,Late
+FD0078,2026-06-06 17:10,Central,5.41,Low,26.8,35,5-10 km,0,On Time
+FD0079,2026-06-03 06:35,South,3.94,Moderate,28.3,35,0-5 km,0,On Time
+FD0080,2026-04-17 03:14,East,6.24,Low,23.1,35,5-10 km,0,On Time
+FD0081,2026-07-27 16:30,Central,1.4,High,24.7,35,0-5 km,0,On Time
+FD0082,2026-04-09 17:14,East,9.28,Moderate,43.2,35,5-10 km,1,Late
+FD0083,2026-03-13 13:12,North,17.25,Moderate,64.8,35,15-20 km,1,Late
+FD0084,2026-06-30 10:48,East,11.31,Moderate,53.9,35,10-15 km,1,Late
+FD0085,2026-01-06 08:01,Central,7.42,Moderate,30.3,35,5-10 km,0,On Time
+FD0086,2026-06-17 18:00,West,5.59,Moderate,35.2,35,5-10 km,1,Late
+FD0087,2026-02-09 15:32,South,1.91,Low,24.1,35,0-5 km,0,On Time
+FD0088,2026-06-05 02:26,North,11.53,Moderate,53.2,35,10-15 km,1,Late
+FD0089,2026-01-23 10:13,East,6.19,Moderate,32.4,35,5-10 km,0,On Time
+FD0090,2026-02-14 01:17,West,19.29,High,89.2,35,15-20 km,1,Late
+FD0091,2026-01-13 16:54,Central,6.68,Moderate,38.3,35,5-10 km,1,Late
+FD0093,2026-03-20 15:00,East,8.82,Moderate,30.3,35,5-10 km,0,On Time
+FD0094,2026-07-15 09:30,North,11.99,Low,46.2,35,10-15 km,1,Late
+FD0095,2026-01-13 10:34,South,6.34,Moderate,33.0,35,5-10 km,0,On Time
+FD0096,2026-05-31 23:12,Central,10.01,High,52.8,35,10-15 km,1,Late
+FD0097,2026-01-15 01:13,Central,6.5,Low,28.0,35,5-10 km,0,On Time
+FD0098,2026-02-22 22:35,West,9.6,Moderate,50.2,35,5-10 km,1,Late
+FD0099,2026-03-21 10:56,North,1.32,Moderate,17.6,35,0-5 km,0,On Time
+FD0100,2026-05-09 03:25,West,0.85,Low,11.0,35,0-5 km,0,On Time
+FD0101,2026-06-28 04:30,West,6.85,Low,28.1,35,5-10 km,0,On Time
+FD0102,2026-03-18 03:13,South,9.17,Moderate,37.9,35,5-10 km,1,Late
+FD0103,2026-02-18 00:51,Central,10.63,Low,43.7,35,10-15 km,1,Late
+FD0104,2026-04-29 23:18,North,5.65,Moderate,22.4,35,5-10 km,0,On Time
+FD0105,2026-04-05 11:29,Central,4.02,High,35.1,35,0-5 km,1,Late
+FD0106,2026-02-28 18:42,South,4.06,High,42.2,35,0-5 km,1,Late
+FD0107,2026-07-10 20:47,West,4.67,Low,26.1,35,0-5 km,0,On Time
+FD0108,2026-05-07 00:21,East,2.57,Low,23.0,35,0-5 km,0,On Time
+FD0110,2026-02-15 12:09,Central,15.14,Low,52.5,35,15-20 km,1,Late
+FD0111,2026-03-12 18:23,North,6.44,High,46.0,35,5-10 km,1,Late
+FD0112,2026-07-24 17:07,South,3.88,High,24.4,35,0-5 km,0,On Time
+FD0113,2026-06-02 08:45,South,15.28,Low,50.2,35,15-20 km,1,Late
+FD0114,2026-05-16 23:55,South,7.11,Moderate,39.4,35,5-10 km,1,Late
+FD0115,2026-02-22 13:17,East,9.11,Moderate,44.7,35,5-10 km,1,Late
+FD0116,2026-06-10 15:01,South,0.92,Low,10.0,35,0-5 km,0,On Time
+FD0117,2026-01-01 21:47,South,5.26,Moderate,38.0,35,5-10 km,1,Late
+FD0118,2026-07-13 12:16,East,7.3,High,42.2,35,5-10 km,1,Late
+FD0119,2026-02-25 11:28,West,7.16,Low,28.4,35,5-10 km,0,On Time
+FD0120,2026-06-28 14:37,West,10.4,Low,51.2,35,10-15 km,1,Late
